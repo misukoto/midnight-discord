@@ -1242,7 +1242,7 @@ body {
             --chatbar-border-color: var(--border-subtle);
         }
         .scrollerSpacer__36d07 {
-            height: calc(24px + var(--chatbar-padding));
+            height: calc(12px + var(--chatbar-padding));
         }
         .scroller__36d07::-webkit-scrollbar-track {
             margin-bottom: calc(20px + var(--chatbar-padding));
